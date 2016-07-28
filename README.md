@@ -12,3 +12,4 @@ Eurorack components and footprints for KiCad.
 - [SN74HC165](http://www.ti.com/lit/ds/symlink/sn74hc165.pdf)
 - [SN74HC595](http://www.ti.com/lit/ds/symlink/sn74hc595.pdf)
 - [TLC5925](http://www.ti.com/lit/ds/symlink/tlc5925.pdf)
+- [TL1105SPF250Q](http://spec_sheets.e-switch.com/specs/J100206.pdf)
