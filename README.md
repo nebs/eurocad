@@ -6,7 +6,7 @@ Eurorack components and footprints for KiCad.
 
 - [Eurorack 2x5 Power Header](http://www.doepfer.de/a100_man/a100t_e.htm)
 - [HT16K33](https://cdn-shop.adafruit.com/datasheets/ht16K33v110.pdf)
-- LP4OA1PBCT
+- [LP4OA1PBCT](http://datasheet.elcodis.com/pdf/19/45/194534/lp4oa1pbctr.pdf)
 - [MCP23017](https://cdn-shop.adafruit.com/datasheets/mcp23017.pdf)
 - [PJ301M-12](https://www.thonk.co.uk/wp-content/uploads/2014/02/Thonkiconn_Jack_Datasheet.pdf)
 - [SN74HC165](http://www.ti.com/lit/ds/symlink/sn74hc165.pdf)
