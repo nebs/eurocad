@@ -1,3 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP TL1105SPF250Q
+D Double Pole Single Throw (DPST) Switch
+K switch
+$ENDCMP
+#
 #End Doc Library

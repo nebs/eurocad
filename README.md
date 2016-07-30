@@ -13,9 +13,11 @@ Eurorack components and footprints for KiCad.
 - [SN74HC595](http://www.ti.com/lit/ds/symlink/sn74hc595.pdf)
 - [TLC5925](http://www.ti.com/lit/ds/symlink/tlc5925.pdf)
 - [TL1105SPF250Q](http://spec_sheets.e-switch.com/specs/J100206.pdf)
+- [B3W9](http://www.mouser.com/ds/2/307/en-b3w-9-11824.pdf)
 
 ### Footprints
 
 - [LP4OA1PBCT](http://datasheet.elcodis.com/pdf/19/45/194534/lp4oa1pbctr.pdf)
 - [PJ301M-12](https://www.thonk.co.uk/wp-content/uploads/2014/02/Thonkiconn_Jack_Datasheet.pdf)
 - [TL1105SPF250Q](http://spec_sheets.e-switch.com/specs/J100206.pdf)
+- [B3W9](http://www.mouser.com/ds/2/307/en-b3w-9-11824.pdf)
