@@ -15,6 +15,7 @@ Eurorack components and footprints for KiCad.
 - [TL1105SPF250Q](http://spec_sheets.e-switch.com/specs/J100206.pdf)
 - [B3W9](http://www.mouser.com/ds/2/307/en-b3w-9-11824.pdf)
 - 2x8 0.1" Pin Header
+- 2x4 0.1" Pin Header
 
 ### Footprints
 
