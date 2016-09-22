@@ -25,3 +25,4 @@ Eurorack components and footprints for KiCad.
 - [TL1105SPF250Q](http://spec_sheets.e-switch.com/specs/J100206.pdf)
 - [B3W9](http://www.mouser.com/ds/2/307/en-b3w-9-11824.pdf)
 - Mouse Bites (1mm apart, 0.5mm diameter)
+- [Alpha9mmPot](https://www.thonk.co.uk/documents/alpha/9mm/Alpha%209mm%20Vertical%20-%20Linear%20Taper%20B1M.pdf)
