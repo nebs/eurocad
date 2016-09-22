@@ -14,6 +14,7 @@ Eurorack components and footprints for KiCad.
 - [TLC5925](http://www.ti.com/lit/ds/symlink/tlc5925.pdf)
 - [TL1105SPF250Q](http://spec_sheets.e-switch.com/specs/J100206.pdf)
 - [B3W9](http://www.mouser.com/ds/2/307/en-b3w-9-11824.pdf)
+- [RGBLED10mm](https://cdn-shop.adafruit.com/datasheets/FLR-100WAS-RGB.pdf)
 - 2x8 0.1" Pin Header
 - 2x5 0.1" Pin Header
 - 2x4 0.1" Pin Header
@@ -24,5 +25,6 @@ Eurorack components and footprints for KiCad.
 - [PJ301M-12](https://www.thonk.co.uk/wp-content/uploads/2014/02/Thonkiconn_Jack_Datasheet.pdf)
 - [TL1105SPF250Q](http://spec_sheets.e-switch.com/specs/J100206.pdf)
 - [B3W9](http://www.mouser.com/ds/2/307/en-b3w-9-11824.pdf)
-- Mouse Bites (1mm apart, 0.5mm diameter)
 - [Alpha9mmPot](https://www.thonk.co.uk/documents/alpha/9mm/Alpha%209mm%20Vertical%20-%20Linear%20Taper%20B1M.pdf)
+- [RGBLED10mm](https://cdn-shop.adafruit.com/datasheets/FLR-100WAS-RGB.pdf)
+- Mouse Bites (1mm apart, 0.5mm diameter)
