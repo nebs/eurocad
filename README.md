@@ -30,5 +30,6 @@ Eurorack components and footprints for KiCad.
 - [Alpha9mmPot](https://www.thonk.co.uk/documents/alpha/9mm/Alpha%209mm%20Vertical%20-%20Linear%20Taper%20B1M.pdf)
 - [RGBLED10mm](https://cdn-shop.adafruit.com/datasheets/FLR-100WAS-RGB.pdf)
 - [BA56](http://www.kingbrightusa.com/images/catalog/SPEC/BA56-12SRWA.pdf)
+- [DC_JACK](https://www.sparkfun.com/datasheets/Prototyping/Barrel-Connector-PJ-202A.pdf)
 - MIDI DIN 5
 - Mouse Bites (1mm apart, 0.5mm diameter)
